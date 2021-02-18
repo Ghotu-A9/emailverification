@@ -1,2 +1,2 @@
-# emailverification
- to verify and store emails
+# Emailverification
+ To verify and store emails securely
